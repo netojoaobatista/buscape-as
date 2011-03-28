@@ -20,7 +20,7 @@ Como Usar ?
 
 > Faça um clone do repositório
 
-	git clone https://netojoaobatista@github.com/netojoaobatista/buscape-as.git
+	git clone https://github.com/buscapedev/buscape-as.git
 
 > Instancie a classe.
 > Use sua instância criada para chamar os métodos da classe.
